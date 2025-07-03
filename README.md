@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey! 
 
-<!--
-**Turgut-Kalyon/Turgut-Kalyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Turgut**, a Computer Science student driven by a passion for **clean, maintainable code**, robust **software testing**, and modern **DevOps practices**. 
+I believe in building software that doesn’t just work—but works well, scales, and can be trusted.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 CS student at Hochschule Darmstadt
+- 🧪 Focused on: **software testing**, **CI/CD**, and writing **clean, testable code**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning / Want to Learn
+- Gaining deeper experience with automated testing and CI workflows
+- Planning to learn:
+  - **Docker** for containerizing applications
+  - **Kubernetes** for orchestration and deployment at scale
+  - **Helm** for managing Kubernetes configurations
+
+
+## 🧰 Tech Toolbox
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50"/>
+</p>

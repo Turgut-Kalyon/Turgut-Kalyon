@@ -1,5 +1,7 @@
 # Hey! 
 
+![Turgut-kalyon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Turgut-kalyon&theme=vue-dark&hide_border=true)
+
 I'm **Turgut**, a Computer Science student driven by a passion for **clean, maintainable code**, robust **software testing**, and modern **DevOps practices**. 
 I believe in building software that doesn’t just work—but works well, scales, and can be trusted.
 

@@ -1,20 +1,17 @@
-# Hey! 
+# Hey
 
-![Turgut-kalyon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Turgut-kalyon&theme=vue-dark&hide_border=true)
-
-I'm **Turgut**, a Computer Science student driven by a passion for **clean, maintainable code**, robust **software testing**, and modern **DevOps practices**. 
-I believe in building software that doesn’t just work—but works well, scales, and can be trusted.
+I'm Turgut, a Computer Science student passionate about building, breaking, and improving software.
+I enjoy working on API Development and Software Testing, and I use tools like Jenkins for flexible CI/CD pipelines to bring ideas into reality.
 
 ## 🚀 About Me
-- 🎓 CS student at Hochschule Darmstadt
-- 🧪 Focused on: **software testing**, **CI/CD**, and writing **clean, testable code**
+🎓 CS student at Hochschule Darmstadt
 
-## 🌱 Currently Learning / Want to Learn
-- Gaining deeper experience with automated testing and CI workflows
-- Planning to learn:
-  - **Docker** for containerizing applications
-  - **Kubernetes** for orchestration and deployment at scale
-  - **Helm** for managing Kubernetes configurations
+🧪 Focus areas: API Development, Software Testing, CI/CD
+
+🖥️ Strong interest in automation, scalability, and clean code
+
+## Current Project
+I'm currently working on [CryoBot](https://github.com/Turgut-Kalyon/CryoBot), a casino-style game bot for Discord, where users can bet coins in games and earn more coins by winning.
 
 ## 🧰 Tech Toolbox
 
@@ -26,3 +23,9 @@ I believe in building software that doesn’t just work—but works well, scales
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50"/>
 </p>
+
+## Stats
+
+![turgut-kalyon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=turgut-kalyon&theme=tokyonight&hide_border=true)
+![turgut-kalyon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turgut-kalyon&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+

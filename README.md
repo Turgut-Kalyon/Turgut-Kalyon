@@ -1,4 +1,4 @@
-# Hey
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/23692211-3a09-4110-a16a-00e780c0c089" />
 
 I'm Turgut, a Computer Science student passionate about building, breaking, and improving software.
 I enjoy working on API Development and Software Testing, and I use tools like Jenkins for flexible CI/CD pipelines to bring ideas into reality.

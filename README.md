@@ -27,5 +27,5 @@ I'm currently working on [CryoBot](https://github.com/Turgut-Kalyon/CryoBot), a 
 ## Stats
 
 ![turgut-kalyon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=turgut-kalyon&theme=tokyonight&hide_border=true)
-![turgut-kalyon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turgut-kalyon&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/687a9f37d8402b4cbd3b607a?variant=dark" alt="roadmap.sh"/></a>
 

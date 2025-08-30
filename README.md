@@ -27,5 +27,4 @@ I'm currently working on [CryoBot](https://github.com/Turgut-Kalyon/CryoBot), a 
 ## Stats
 
 ![turgut-kalyon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=turgut-kalyon&theme=tokyonight&hide_border=true)
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/687a9f37d8402b4cbd3b607a?variant=dark" alt="roadmap.sh"/></a>
-
+[![roadmap.sh](https://roadmap.sh/card/wide/687a9f37d8402b4cbd3b607a?variant=dark&roadmaps=python%2Ccpp%2Clinux%2Cgit-github)](https://roadmap.sh)

@@ -1,14 +1,25 @@
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/23692211-3a09-4110-a16a-00e780c0c089" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
 
-I'm Turgut, a Computer Science student passionate about building, breaking, and improving software.
-I enjoy working on API Development and Software Testing, and I use tools like Jenkins for flexible CI/CD pipelines to bring ideas into reality.
+**CS Student at h_da · Working Student @ PanDacom Direkt · Heading into DevOps**
 
-## 🚀 About Me
-- CS student at Hochschule Darmstadt
+-----
 
-- Focus areas: DevOps and Automation
+## About Me
 
-- Strong interest in automation, scalability, and clean code
+- Computer Science student at **Hochschule Darmstadt (h_da)**
+- Working Student at **PanDacom Direkt** — working with real pipelines and real systems
+- Currently focused on **DevOps**: CI/CD, containerization & automation
+- Learning every day — expanding from Jenkins & Docker towards a full DevOps skill set
+
+-----
+
+## 📌 Projects
+
+> 🚧 Working on it — building experience at PanDacom Direkt and planning first personal DevOps projects.
+
+-----
 
 ## Tech Toolbox
 

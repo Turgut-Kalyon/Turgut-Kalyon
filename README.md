@@ -12,12 +12,19 @@
 
 -----
 
-## 📌 Projects
+## Projects
 
-> 🚧 Working on it — building experience at PanDacom Direkt and planning first personal DevOps projects.
+- [**reflexd**](https://github.com/Turgut-Kalyon/reflexd) — Lightweight file watcher daemon written in Go
+
+-----
+
+## Currently Learning
+- Go
+- Kubernetes
+- SonarCloud & Code Quality
 
 -----
 
 ## Tech Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,docker,jenkins,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,linux,git,docker,jenkins,githubactions&theme=light)](https://skillicons.dev)

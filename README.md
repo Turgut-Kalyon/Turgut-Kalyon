@@ -14,7 +14,7 @@
 
 ## Projects
 
-- [**reflexd**](https://github.com/Turgut-Kalyon/reflexd) — Lightweight file watcher daemon written in Go
+- [**wned**](https://github.com/Turgut-Kalyon/wned) — Lightweight file watcher daemon written in Go
 
 -----
 
